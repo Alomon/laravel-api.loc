@@ -39,7 +39,7 @@ composer self-update
 composer create-project laravel/laravel .
 php artisan install:api
 php artisan config:publish cors
-php atrisan storage:link
+php artisan storage:link
 ```
 В корне проекта создан файл .htaccess
 ```php
